@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.color{
+    background-color: rgb(64, 89, 255); 
+    color: white; 
+    width: 100px;
+    height: 40px;
+    text-align: center;
+    border-radius: 5px;
+}
